@@ -10,8 +10,26 @@ Quality Assurance Engineer in Training | TripleTen Bootcamp 2025<br>Currently de
 
 ## 🚀 Proyectos Destacados
 
-### 🔧 [APQP_Digitalizador](https://github.com/aespinozacalix/APQP_Digitalizador)
-Sistema web para digitalizar auditorías LPA. Desarrollado con Flask, SQLite y Bootstrap.
+🛠️ **Descripción del proyecto:**  
+Este sistema web fue creado para digitalizar el proceso de auditorías LPA en la industria automotriz, reemplazando el uso de checklists en papel por una plataforma digital eficiente.  
+Como Ingeniero Industrial con experiencia en APQP, identifiqué esta necesidad y, con el apoyo de un AI Assistant, desarrollé una solución funcional que conecta frontend, backend y base de datos.  
+El proyecto está en desarrollo y evoluciona con cada iteración.
+
+📚 **Tecnologías utilizadas:**  
+- 🐍 Flask (Python) – Backend  
+- 🗃️ SQLite – Base de datos  
+- 🌐 HTML + Jinja – Plantillas dinámicas  
+- 🎨 Bootstrap – Diseño responsivo  
+- ⚙️ JavaScript básico – Interactividad  
+- 🧠 Git + GitHub – Control de versiones
+ 
+🔗 **Repositorio del proyecto:** 
+👉 [APQP_Digitalizador](https://github.com/aespinozacalix/APQP_Digitalizador)
+
+📸 **Vista previa del sistema:**  
+![Vista del dashboard](https://raw.githubusercontent.com/aespinozacalix/APQP_Digitalizador/main/static/img/dashboard.png)
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=aespinozacalix&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
