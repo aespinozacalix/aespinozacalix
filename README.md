@@ -27,8 +27,7 @@ El proyecto está en desarrollo y evoluciona con cada iteración.
 👉 [APQP_Digitalizador](https://github.com/aespinozacalix/APQP_Digitalizador)
 
 📸 **Vista previa del sistema:**  
-![Vista del dashboard](https://raw.githubusercontent.com/aespinozacalix/APQP_Digitalizador/main/static/img/dashboard.png)
-
+![Vista del dashboard](https://github.com/aespinozacalix/APQP_Digitalizador/blob/main/static/img/dashboard.png)
 
 
 # 📊 GitHub Stats:
